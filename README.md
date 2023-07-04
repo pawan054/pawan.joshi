@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pawan054
 - 👀 I’m interested in AI and Computational Physics
 - 🌱 I’m currently learning Machine Learning and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on related field
 - 📫 How to reach me mail: pjoshi2357@gmail.com
 
 <!---
